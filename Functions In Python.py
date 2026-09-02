@@ -16,7 +16,7 @@
 # def function_name (parameters):
 #     pass #pass can be used when we want to decide the inner code for later.
 #     Statement(s)
-
+# General use functions ,common to all data structures is caleed a function,whereas a function specific to a data structure is called a method.
 # In[2]:
 
 
